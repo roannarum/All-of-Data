@@ -85,4 +85,3 @@ idx = pd.IndexSlice
 df_jan2019 = df.loc[idx[:, "2019-01-01":"2019-01-31"], :]
 print("Dataset akhir:\n", df_jan2019)
 
-# END OF PROJECT
